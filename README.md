@@ -6,7 +6,7 @@ You point it at one lesson, for example "write Module 3, Lesson 2 of our support
 
 It works in Claude Code, the Claude desktop and web apps, and the Claude Agent SDK. Live classes, live online classes and self-paced video courses (Udemy, Teachable, Coursera, Thinkific, any LMS). MIT licensed. It writes in the language of your request.
 
-It is the companion of [Curriculum Designer](https://github.com/chuonglife/curriculum-designer-skill), which designs the whole program. Curriculum Designer gives you the modules and lessons; Lesson Content Writer fills each lesson.
+It is the companion of [Curriculum Designer](https://github.com/chuonglife/curriculum-designer-skill), which designs the whole program. Curriculum Designer gives you the modules and lessons; Lesson Content Writer fills each lesson. Next in the set, [Lesson Slide Designer](https://github.com/chuonglife/lesson-slide-designer-skill) turns each finished lesson into a slide deck (PowerPoint) and a video script.
 
 ## Contents
 
