@@ -107,7 +107,7 @@ Theory: were the methods right for each section? Did the materials fit the metho
 
 ## 9. Mapping the lesson plan to a self-paced video course
 
-For a self-paced video course (Udemy, Teachable, Coursera, LMS).
+For a self-paced video course (Udemy, Teachable, Coursera, LMS). The table below is the default, several videos per lesson. When the program gives the lesson one video length or the user asks for one video, use "One short video per lesson" in `SKILL.md` instead: all the rows up to the close live inside that one video, at the stated length, and the quiz and assignment come after it.
 
 | Lesson plan | Self-paced video course |
 |---|---|

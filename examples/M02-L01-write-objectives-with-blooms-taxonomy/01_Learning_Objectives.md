@@ -50,3 +50,6 @@ This lesson builds the component competency **"Write measurable objectives for a
 - The program specifies "Online learning through video", so the lesson is designed as 6 short videos in place of a 150-minute live session; for a live class, merge the videos into the matching sections and keep the exercises.
 - Learners already have the structure map of their course (course title + list of lessons) from M01 Lesson 2; if not, Task 1 allows them to use the sample short course "Asking questions in class" (handout M02-L1-4).
 - The quiz pass mark of 8/10 (80%) follows common Udemy practice; the objective table passes when at least 80% of the rows meet all 6 criteria.
+- The project this example came from had no `assessments/` folder and no assessment skill, so both quizzes are written in full in the content file. With lesson-assessment-designer installed, section 6 would carry the blueprint and "Quiz: see assessments/..." instead.
+- Made up for illustration, and said so in the script: the two Udemy courses in Video 1 (1,230 students, 3.4 and 4.7 ratings, 19 reviews), the learners Lena to Noah in Video 2, and the two sample tables scored in Video 6.
+- Placeholders the instructor fills before recording: four `[INSTRUCTOR STORY: ...]` spots, in Video 1 (a real course page, the objectives box, the first vague objective) and in the problem close (the longest table).

@@ -23,6 +23,7 @@ The six rule groups below were originally written by course creator Chuong for h
 - Not "a client", "many years ago", "a teacher". Say "Maria, who teaches Year 9 science in Leeds", "back in March 2022", "a cohort of 41 trainees".
 - Odd numbers, not round ones: "47% margin" is more believable than "50%"; "a 12-page lesson plan" beats "a very long lesson plan". Use odd numbers only in examples, stories and personal experience. Sourced pedagogical figures (the attention curve, speech rates and so on) stay exactly as the source gives them.
 - Every concept gets one example with a name and a number. No real example yet, no moving on to the next section.
+- Concrete is not the same as invented. A name and a number are honest when they are real (the user gave them), a marked placeholder (`[INSTRUCTOR STORY: ...]`), or framed in the script as made up ("Picture a teacher, call her Maria..."). Never present an invented case, course, rating or cohort as if it happened.
 - Banned placeholders: "John Doe", "Company XYZ", "Subject X".
 
 ## 4. Personal and regional wording
@@ -33,7 +34,7 @@ The six rule groups below were originally written by course creator Chuong for h
 
 ## 5. Opinions and bias, not neutrality
 
-- AI stays neutral and weighs both sides. A real instructor has biases, pet hates, and sometimes overstates out of irritation. Each lesson needs at least: one spot where "I hate / I can't stand...", one where "I got this wrong myself", and one where "the book says X, I do it differently".
+- AI stays neutral and weighs both sides. A real instructor has biases, pet hates, and sometimes overstates out of irritation. Each lesson needs at least one firm opinion ("I can't stand...", "the book says X, I'd do Y"). Opinions are fine to write, because the instructor can keep or strike them. Personal events are different: "I got this wrong myself", "a learner sent me this last week" are stories, and you do not know the instructor's stories. Use one the user gave you; otherwise write a marked placeholder such as `[INSTRUCTOR STORY: a time you got this wrong, 2-3 sentences]`, or an example the script clearly frames as made up. Never invent a first-person event and tell it as true.
 - No unearned praise ("Awesome!", "Excellent!"), no motivational-speaker tone, no hedging ("may", "often", "generally") where a firm statement is needed. If you are not sure, say "I haven't verified this".
 - Use "we" only when both of you really do the thing together. Otherwise it is "I" and "you".
 
@@ -59,7 +60,7 @@ A lecture goes wrong in voice when the "key teaching points" on the slide are co
 3. Read two random paragraphs aloud; where you run out of breath or sound like a report, cut the sentence and add a short one.
 4. Count parallel triplets on one page; more than one, break them.
 5. Count bold spots in the lecture text of one section; more than 3, remove some.
-6. In each lecture section, look for a named person plus an odd number, and for one personal opinion (hate, mistake, doing it differently). Add what is missing.
+6. In each lecture section, look for a named person plus an odd number, and for one personal opinion (a pet hate, doing it differently from the book). Add what is missing. Then check every first-person event and every "real" case, course or figure: each one is from the user, an `[INSTRUCTOR STORY: ...]` placeholder, or framed as made up. Anything else gets rewritten.
 7. Ask: could anyone have written this paragraph about any topic? If yes, it is not yet the lecture for this lesson.
 
 ## Writing in other languages

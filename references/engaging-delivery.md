@@ -8,14 +8,14 @@ Every technique here is grounded in teaching-methodology sources: the attention 
 - Minutes 5-15: attention peaks. Put the **hardest material and the core concept** here.
 - Minutes 15-30: attention drops. Move to **doing**: examples, a short exercise, pair discussion, a demonstration.
 - Last 15 minutes: hardest to hold. **Change the format completely**: a game, a role play, a one-minute presentation, a quiz, a small product.
-- The 15-minute rule: no stretch where learners only listen for more than 15 minutes. In a 45-minute lesson, change the method at least 3 times. For self-paced video, one video covers one unit and runs 10-12 minutes at most.
+- The 15-minute rule: no stretch where learners only listen for more than 15 minutes. In a 45-minute lesson, change the method at least 3 times. For self-paced video, one video covers one unit and runs 10-12 minutes at most, unless the lesson is a single short video (see "One short video per lesson" in `SKILL.md`), where one video holds the whole lesson.
 
 ## 2. Motivating lead-ins (4 source methods plus variants)
 
 The sources give four ways to motivate: **activate prior experience; create a problem situation; stir emotion and show why the topic matters for the job; create a conflict with what learners already believe.** Write a lead-in of 3-5 minutes, pick one method, and always finish by **stating the objective as a concrete promise** ("By the end of these 45 minutes you will have in your hands...").
 
 Variants (the examples below are illustrative. Replace the setting with the job world of the course's target learners):
-1. **A real case or classroom story**: "Last Thursday Maria, who teaches Year 9 science in Leeds, sent me a 12-page lesson plan and asked why her students were still falling asleep..." Give it a person, a time, a detail, and leave it unresolved.
+1. **A real case or classroom story**: "Last Thursday Maria, who teaches Year 9 science in Leeds, sent me a 12-page lesson plan and asked why her students were still falling asleep..." Give it a person, a time, a detail, and leave it unresolved. Tell it as true only if the user gave you the story. Otherwise write a placeholder for the instructor (`[INSTRUCTOR STORY: a colleague or learner whose lesson plan ..., with a name, a day and one number]`) or frame it as made up ("Picture a Year 9 teacher, call her Maria...").
 2. **A striking number with a source**: "An hour of lecture runs to roughly 9,000 words. Short-term memory keeps a fraction of that. So where do the rest go?" Use only figures you can source.
 3. **The 6 kinds of problem situation**: *sudden turn* (the result is the opposite of what was expected), *surprise*, *mismatch* (theory does not match practice), *conflict* (two ways of working both make sense), *refutation* (state a popular belief, then take it apart), *choice* (the learner must pick one of two or three options).
 4. **Try before you learn**: let learners do a quick version of the task you are about to teach (a nurse educator in Manila asks each person to write one learning objective in 2 minutes), then inspect the errors. Their own mistakes are the motivation.

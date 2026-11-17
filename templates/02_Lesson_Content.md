@@ -88,6 +88,7 @@ Integrated: 1 Lead-in, 2 Topic introduction, 3 Problem solving (3.1 Task 1 theor
 **Objective to instrument map**: (may point to the table in `01_Learning_Objectives.md`)
 
 **End-of-lesson quiz** (if any): <5-10 items, answers, short explanations>.
+<If the project has the lesson-assessment-designer skill or an `assessments/` folder, replace the items with: objectives to measure; suggested blueprint | Objective | Bloom level | Items | Item type |; pass mark (same count and pass mark as the script says); and the line "Quiz: see assessments/<course-slug>/<Mxx-Lyy-lesson-slug>/".>
 
 **Skill check sheet / product rubric** (practical and integrated lessons):
 

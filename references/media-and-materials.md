@@ -67,7 +67,7 @@ Template for an individual task sheet: Topic / Performance objective / Requireme
 
 The principles stay the same; the media change names: board -> screen share or digital whiteboard; handout -> downloadable file or form; group -> breakout room or submitted assignment; demonstration -> screen recording with voiceover; real object -> showing the instructor's actual working documents, on any platform (a live video tool, a learning management system, or a course marketplace such as Udemy).
 
-For a self-paced video course: each video runs at most 10-12 minutes and covers one unit of knowledge, with its own opening, body and close. After every 1-2 videos, give learners something to do (a quiz, a submitted assignment, a checklist). Downloadable resources replace the paper handout. Learners have no instructor beside them, so **the script must carry its own questions and pauses** ("Pause the video and write down...").
+For a self-paced video course: each video runs at most 10-12 minutes and covers one unit of knowledge, with its own opening, body and close. If the lesson is a single short video (the program gives a video length, or the user asks for one video), that one video holds every unit of the lesson at the stated length; see "One short video per lesson" in `SKILL.md`. After every 1-2 videos, give learners something to do (a quiz, a submitted assignment, a checklist). Downloadable resources replace the paper handout. Learners have no instructor beside them, so **the script must carry its own questions and pauses** ("Pause the video and write down...").
 
 ## 9. Writing it into the lesson plan
 

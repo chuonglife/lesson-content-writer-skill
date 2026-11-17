@@ -57,16 +57,41 @@ Lock-in:   4 parts. 6 kinds of standard. Measurable by eye.
 
 ## Install
 
+You need [git](https://git-scm.com/downloads). Pick one of the two Claude Code installs below. "Personal" makes the skill available in every project on your computer; "one project only" puts it inside the project folder you are standing in, so it travels with that project.
+
 **Claude Code (personal, all projects)**
+
+macOS, Linux or Git Bash:
 
 ```bash
 git clone https://github.com/chuonglife/lesson-content-writer-skill ~/.claude/skills/lesson-content-writer
 ```
 
+Windows PowerShell:
+
+```powershell
+git clone https://github.com/chuonglife/lesson-content-writer-skill "$HOME\.claude\skills\lesson-content-writer"
+```
+
 **Claude Code (one project only)**
+
+Open the terminal in your project folder first. macOS, Linux or Git Bash:
 
 ```bash
 git clone https://github.com/chuonglife/lesson-content-writer-skill .claude/skills/lesson-content-writer
+```
+
+Windows PowerShell:
+
+```powershell
+git clone https://github.com/chuonglife/lesson-content-writer-skill ".claude\skills\lesson-content-writer"
+```
+
+git creates the `.claude` folder for you, dot included, so you do not need to make it in Explorer. To check the install, start `claude` in that folder (restart it if it was already open) and type `/skills`, or ask "which skills do you have?". To update later, run `git pull` inside the skill folder, for example in PowerShell:
+
+```powershell
+cd "$HOME\.claude\skills\lesson-content-writer"
+git pull
 ```
 
 **Claude desktop or web app**
@@ -99,6 +124,11 @@ Write the learning objectives and full script for the lesson "Taking a manual
 blood pressure reading" for first-year nursing students.
 ```
 
+```
+Write lesson 1 of module 1 from programs/my-course/program.json.
+Self-paced video, one video of 7 minutes.
+```
+
 To fill a whole course, ask for one lesson at a time. The skill reads the objectives of the earlier lessons so it does not reteach and so each lesson builds on the last one's product.
 
 ## How the skill works
@@ -107,8 +137,8 @@ To fill a whole course, ask for one lesson at a time. The skill reads the object
 2. **Write the objectives file.** Every line uses the 4-part formula. Three groups. At most 3 specific objectives per 45 minutes. An alignment table is built right away and steers the rest.
 3. **Design the sequence.** The frame for the lesson type, a lead method and an active learning technique per activity, the media, and minutes that add up. No stretch of pure listening longer than 15 minutes.
 4. **Write the teaching content.** Every chunk runs through Introduce, Present, Apply, Check and a Lock-in. Procedures get a step table, a three-run demonstration and a common-mistakes table. The script is written as it will be spoken.
-5. **Write the assessment and the materials.** A quiz or a skill check sheet tied to each objective, a slide outline, and the handouts in full.
-6. **Remove the AI voice.** A dedicated pass strips stock phrases, em dashes, tidy triplets and neutral filler, and adds names, odd numbers and opinions, so the script sounds like a real instructor.
+5. **Write the assessment and the materials.** A quiz or a skill check sheet tied to each objective, a slide outline, and the handouts in full. If [Lesson Assessment Designer](https://github.com/chuonglife/lesson-assessment-designer-skill) is installed or the project has an `assessments/` folder, the quiz is left to that skill: the lesson file carries the objectives to measure, a suggested blueprint and the pass mark, so you never end up with two quizzes that disagree.
+6. **Remove the AI voice.** A dedicated pass strips stock phrases, em dashes, tidy triplets and neutral filler, and adds names, odd numbers and opinions, so the script sounds like a real instructor. It does not invent your life: personal stories come from what you give it, or become `[INSTRUCTOR STORY: ...]` placeholders for you to fill, or are examples the script openly calls made up.
 7. **Self-review.** Objectives, alignment, minutes, terms, sources and engagement checklists.
 
 ## The three lesson frames
@@ -123,6 +153,8 @@ The frames come from the lesson plan forms taught to vocational instructors in V
 
 For self-paced video, each chunk becomes one video of 10 to 12 minutes or less, Checks become pause questions with the answer right after, quizzes follow groups of videos, and a submitted assignment replaces supervised practice.
 
+If you want one short video per lesson instead (say one 7-minute lecture, then a quiz and a task), say "one video" in your request, or give the lesson a video length in the program file (any field such as `video_minutes`). The skill then writes exactly one video at that length, targets 140 to 150 spoken words per minute, reports the word count, and never comes in under the length, because Udemy needs at least 30 minutes of video per course.
+
 ## The rules it enforces
 
 - **Objective formula.** Action verb + object + conditions + performance standard. "Set priority and status on 5 sandbox tickets, all correct against the SLA table" passes. "Understand ticket priorities" does not.
@@ -134,6 +166,7 @@ For self-paced video, each chunk becomes one video of 10 to 12 minutes or less, 
 - **Materials exist.** Every sheet, checklist or clip the script mentions is written out in the lesson.
 - **Examples come from the learners' own work.** Tickets for support agents, wards for nurses, lesson plans for teachers.
 - **No invented sources or statistics.**
+- **No invented personal stories.** The script never tells a made-up event in the first person as if it happened. Your real stories go in if you give them; otherwise you get `[INSTRUCTOR STORY: ...]` placeholders to fill before recording, all listed under Assumptions.
 - **No AI voice.** No em dashes, no "delve", no "in today's fast-paced world", no triplets everywhere.
 
 ## Example output
@@ -165,7 +198,15 @@ With a four-part formula: action verb, object, conditions, performance standard.
 
 ### Can I use it for Udemy, Teachable or Coursera video lessons?
 
-Yes. Say the lesson is self-paced video. The skill splits it into short videos with their own opening and close, writes pause questions with answers, places quizzes after groups of videos and turns supervised practice into a submitted assignment with a check sheet.
+Yes. Say the lesson is self-paced video. The skill splits it into short videos with their own opening and close, writes pause questions with answers, places quizzes after groups of videos and turns supervised practice into a submitted assignment with a check sheet. Say "one video of 7 minutes" (or put the video length in the program file) and it writes a single video of that length instead.
+
+### Why are there `[INSTRUCTOR STORY: ...]` brackets in my script?
+
+Because the skill does not know your life. A video in which "I" tell a story that never happened is worse than no story. Each bracket says what kind of story fits there. Replace it with your own, or delete it, before you record. If you give the skill your stories up front, it uses them and leaves no brackets.
+
+### Which quiz do I upload, the one in the lesson file or the one from Lesson Assessment Designer?
+
+The one from Lesson Assessment Designer. When that skill or an `assessments/` folder is present, the lesson file does not write its own quiz; it only lists what the quiz must measure and points to `assessments/<course>/<lesson>/`.
 
 ### Does it work for corporate training and onboarding?
 
@@ -202,6 +243,7 @@ references/natural-writing-style.md        removing the AI voice
 references/example-lesson.md               one complete lesson for calibration
 templates/                                 the two output frames
 examples/                                  generated sample lessons
+CHANGELOG.md                               what changed in each version
 ```
 
 ## Sources and credits

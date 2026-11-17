@@ -61,6 +61,6 @@ When you know the grading convention of the user's institution or platform (pass
 The "Assessment" section of each lesson contains:
 1. An **objective <-> instrument** table: for each objective line, which question, quiz item, task or criterion tests it, and in which activity.
 2. The oral questions used in the lesson, with answers.
-3. An end-of-lesson quiz (theory or online lessons): 5-10 items, answers, a short explanation each.
+3. An end-of-lesson quiz (theory or online lessons): 5-10 items, answers, a short explanation each. If the project has the lesson-assessment-designer skill or an `assessments/` folder, write instead the objectives to measure, a suggested blueprint, the pass mark and "Quiz: see assessments/<course-slug>/<lesson>/", so the lesson does not end up with two quizzes that disagree (see Step 4 of `SKILL.md`).
 4. A skill assessment sheet or product rubric (practical or integrated lessons), published to learners beforehand.
 5. Homework: the product, the deadline, the marking criteria.

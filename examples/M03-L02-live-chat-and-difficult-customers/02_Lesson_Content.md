@@ -110,7 +110,7 @@ The playbook says 2 minutes. I do it differently, I aim for 90 seconds, because 
 
 Rule three. One idea per message, 3 lines or fewer in the chat widget. Look at Ben's first message. Seven lines on Joanne's screen and three questions in one go. She answered "web. both. I don't know." Of course she did. She picked one and guessed the rest.
 
-I got this wrong myself. My first month on chat, a customer called Greg who runs a garage in Swindon asked why his payroll export was empty and I sent him a 9-line answer with every possible cause. He replied with one word. "What?" Then I sent it again in 4 short messages and he fixed it in a minute. Same words. Different chunks.
+[INSTRUCTOR STORY: a time you or a colleague sent one long chat answer that the customer did not read, and what happened when it went out again in short messages. 3-4 sentences, with the customer's first name and one number.] If you have no story of your own, use this one and say it's made up: picture Greg, who runs a garage in Swindon, asking why his payroll export is empty. He gets a 9-line answer with every possible cause and replies with one word. "What?" The same answer in 4 short messages and he fixes it in a minute. Same words. Different chunks.
 
 Rule four. Two chats at a time, maximum, for your first month. Ticketyard will happily give you a third. Don't take it. Put yourself on "Busy" when you have two. And when both chats need you at once, tell one of them, with a time: "I'm with you in 90 seconds, Hamid." Customers forgive a stated wait. They don't forgive a silent one.
 
@@ -193,7 +193,7 @@ Same fix as Ben. Four minutes earlier. And nobody asked how to cancel.
 
 **Present** (2 min):
 
-I'll be blunt. There is one line I never want to see in a Pellucid transcript, and it's "Calm down". Nobody in the history of chat has calmed down because they were told to. I've seen it in our own queue 3 times this year, and all 3 ended in a complaint to the team lead.
+I'll be blunt. There is one line I never want to see in a Pellucid transcript, and it's "Calm down". Nobody in the history of chat has calmed down because they were told to. [INSTRUCTOR STORY: optional, how often "Calm down" has turned up in your own queue and how those chats ended. Use your real count or cut this line.]
 
 A fuel line is a sentence that's true but makes things worse. "As I already said" is true. It also says "you weren't listening". "Unfortunately that's our policy" is true. It also says "I'm not going to try". Lauren on the billing queue keeps a list of them taped to her monitor, and the 6 on your sheet come from her list.
 
