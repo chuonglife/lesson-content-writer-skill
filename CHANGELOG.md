@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.1 - 2026-11-18
+
+Three writing rules added to Step 3 of SKILL.md, taken from real course runs:
+
+- Do not invent the reason behind an instructor's choice; word it neutrally or ask, and list it under Assumptions.
+- Do not write first-person sentences that present work done by a pipeline or a machine as the instructor's own, unless the instructor approved it.
+- Check technical claims (install commands, required software, plan limits) against the official documentation and record the source and date.
+
 ## v1.1.0 (2026-11-17)
 
 Fixes found in a test run by a first-time user on Windows 11, building a short self-paced course.
