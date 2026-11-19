@@ -18,7 +18,7 @@ Two Markdown files in `lessons/<course-slug>/<Mxx-Lyy-lesson-slug>/` in the user
 | `01_Learning_Objectives.md` | Lesson facts, objectives in Knowledge / Skills / Autonomy and responsibility written with the 4-part formula, the competency element, learner products, an alignment table objective > where taught > how checked, assumptions | `templates/01_Learning_Objectives.md` |
 | `02_Lesson_Content.md` | One-page plan, then the full lesson in teaching order (spoken script, examples, questions with answers, procedures, demonstrations, practice, consolidation, homework), assessment, materials (slide outline, sheets), post-lesson reflection | `templates/02_Lesson_Content.md` |
 
-Write in English, the default. Use another language only when the user asks for it or the course material is written in it; if those two differ, ask once or follow the course.
+Write in the language the user writes in. If the course material is in another language, ask once which one to use.
 
 If the user wants the files somewhere else or wants a single file, do that instead; the content rules stay the same.
 
