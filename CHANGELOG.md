@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.2 - 2026-11-19
+
+- **English is the default output language,** stated in SKILL.md: another language only when the user asks for it or the material is in it. The docs no longer show a Vietnamese language code as an example, so nobody reads it as a supported option.
+
 ## v1.2.1 - 2026-11-19
 
 No Vietnamese text with diacritics is left in the repository. The skill's rules and its English output are unchanged.
