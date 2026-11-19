@@ -1,6 +1,6 @@
 # Structure of a Lesson
 
-Source: Module 03 - Preparing to Teach (Vo Dinh Duong, HCMC University of Technology and Education, 2022). The skill uses three lesson plan forms: theory, practical and integrated. They describe a teaching sequence, not a regulation, so they work for any subject in any country. Their origin is vocational teacher training in Vietnam (official lesson plan forms 05, 06 and 07, Decision 62/2008 of the labour ministry). The skill uses this structure as the **backbone of the lesson content file**: the reader follows the same sequence the instructor will teach.
+Source: Module 03 - Preparing to Teach (Vo Dinh Duong, HCMC University of Technology and Education, 2022). The skill uses three lesson plan forms: theory, practical and integrated. They describe a teaching sequence, not a regulation, so they work for any subject in any country. The skill uses this structure as the **backbone of the lesson content file**: the reader follows the same sequence the instructor will teach.
 
 ## 1. Choose the lesson type
 

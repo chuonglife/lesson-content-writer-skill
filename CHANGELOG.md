@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.2.1 - 2026-11-19
+
+No Vietnamese text with diacritics is left in the repository. The skill's rules and its English output are unchanged.
+
+- **Cliche example in English.** `references/natural-writing-style.md` no longer quotes the Vietnamese cliche list. It describes the same list in English, as an example of a list built for another language.
+- **Book titles in English only.** The README credits drop the Vietnamese titles in brackets.
+- **Less Vietnam-specific framing.** `references/lesson-structure.md` no longer names the Vietnamese decision on lesson plan forms in its opening; that origin now sits in the README credits next to the source book. `references/assessment.md` offers the 10-point scale as the one from the source textbooks, not as the national scale of one country. The README describes the lesson frames as forms from vocational teacher training.
+
 ## v1.2.0 - 2026-11-19
 
 Fixes from an audit that followed README.md and SKILL.md literally on a clean machine.

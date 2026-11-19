@@ -155,7 +155,7 @@ To fill a whole course, ask for one lesson at a time. The skill reads the object
 | **Practical** | The objective is a skill or procedure and the knowledge was taught earlier | Lead-in, Initial instruction (1/4 to 1/3 of the time: procedure, checkpoints, key points, demonstration, common mistakes), Ongoing coaching (more than half), Closing debrief, Self-practice |
 | **Integrated** | Just-enough theory, then practice in the same session, to build one competency | Lead-in with a problem situation, Topic introduction, Problem solving (theory in IPAC cycles, procedure and demonstration, practice with a check sheet), Problem close, Self-study |
 
-The frames come from the lesson plan forms taught to vocational instructors in Vietnam. They were chosen because they force every lesson to have a lead-in, a check after each chunk, a consolidation and homework, which is exactly where AI-written lessons usually cut corners.
+The frames come from lesson plan forms used in vocational teacher training (see Sources and credits). They were chosen because they force every lesson to have a lead-in, a check after each chunk, a consolidation and homework, which is exactly where AI-written lessons usually cut corners.
 
 For self-paced video, each chunk becomes one video of 10 to 12 minutes or less, Checks become pause questions with the answer right after, quizzes follow groups of videos, and a submitted assignment replaces supervised practice.
 
@@ -259,8 +259,8 @@ CHANGELOG.md                               what changed in each version
 
 ## Sources and credits
 
-- Vo Dinh Duong (2022), *Module 03: Preparing to Teach* (Mô-đun 03 Chuẩn bị dạy học), Ho Chi Minh City University of Technology and Education. Lesson plan frames for theory, practical and integrated lessons.
-- Nguyen Van Tuan (2017), *Teaching Methods* (Phương pháp dạy học), and the Faculty of Technical Education (2007), *Teaching Methodology* (Giáo trình Phương pháp giảng dạy), Ho Chi Minh City University of Technology and Education.
+- Vo Dinh Duong (2022), *Module 03: Preparing to Teach*, Ho Chi Minh City University of Technology and Education. Lesson plan frames for theory, practical and integrated lessons, based on the lesson plan forms of Vietnamese vocational training (forms 05, 06 and 07, Decision 62/2008).
+- Nguyen Van Tuan (2017), *Teaching Methods*, and the Faculty of Technical Education (2007), *Teaching Methodology*, Ho Chi Minh City University of Technology and Education.
 - Nguyen Minh Trung, *Teaching Media* lecture notes, Vinh Long University of Technology Education.
 - *Active Teaching Techniques*, compiled from Nguyen Van Cuong, Vietnam Upper Secondary Education Development Project (2006).
 - Diep Phuong Chi (2026), course slides on training program development, Ho Chi Minh City University of Technology and Education. The 4-part objective formula.

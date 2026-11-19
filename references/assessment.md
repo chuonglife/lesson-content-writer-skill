@@ -56,7 +56,7 @@ Use the grading convention of the user's institution or platform first: a pass/f
 
 Converting a test score to another scale: d = D/K x k (D = maximum of the target scale, K = maximum of the test, k = score obtained).
 
-If the institution has no scale and the user asks for one, the source textbooks use the 10-point scale of Vietnamese vocational education: Excellent 9-10; Very good 8 to under 9; Good 7 to under 8; Fairly satisfactory 6 to under 7; Satisfactory 5 to under 6; Weak 4 to under 5; Poor under 4. Pass mark 5.0.
+If the institution has no scale and the user asks for one, offer the 10-point scale from the source textbooks: Excellent 9-10; Very good 8 to under 9; Good 7 to under 8; Fairly satisfactory 6 to under 7; Satisfactory 5 to under 6; Weak 4 to under 5; Poor under 4. Pass mark 5.0.
 
 ## 7. Writing the assessment part of the lesson content file
 
