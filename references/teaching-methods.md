@@ -1,6 +1,6 @@
 # Teaching Methods: Choosing Them and Writing Them into the Plan
 
-Sources: *Teaching Methods* (Nguyễn Văn Tuấn, HCMC University of Technology and Education, 2017) and the 2007 *Teaching Methodology* textbook of the same university; Arnold, Lipsmeier and Ott (1998) for the 4-step and 6-step practical models. Condensed here into rules to use while planning a lesson.
+Sources: *Teaching Methods* (Nguyen Van Tuan, HCMC University of Technology and Education, 2017) and the 2007 *Teaching Methodology* textbook of the same university; Arnold, Lipsmeier and Ott (1998) for the 4-step and 6-step practical models. Condensed here into rules to use while planning a lesson.
 
 ## 1. Five foundation rules
 

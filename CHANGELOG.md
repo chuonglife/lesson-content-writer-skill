@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.2.0 - 2026-11-19
+
+Fixes from an audit that followed README.md and SKILL.md literally on a clean machine.
+
+- **Install in the Claude app.** The README gives the current path (Customize > Skills > "+" > Create skill > Upload a skill) and says that Code execution and file creation must be on. The old path, Settings > Capabilities > Skills, is gone from the app. The README also links the Claude Code install page.
+- **Usage examples that run.** The first example no longer needs a `program.json`. The two that do are marked as needing Curriculum Designer and use its real example folder name.
+- **Objective codes.** Every objective line ends with `[K1]`, `[S1]`, `[A1]` and so on. The rule is in `SKILL.md` Step 1 and in `templates/01_Learning_Objectives.md`. Lesson Assessment Designer reads these codes.
+- **One-video mode finished.** The engagement self-check reads the question count per 2 to 3 minutes of video, both templates carry the one-video notes and the `One-video mode: ...` Assumptions line, and there is a new worked example, `examples/M01-L01-vague-versus-measurable-objectives/`: one 7-minute video, quiz left to the `assessments/` folder.
+- **Examples obey the rules.** No invented person or event is told as fact in any example. In M02-L01 the close is its own Video 7 (the old Video 6 ran 17 minutes against the 12-minute rule), Quiz 1 is 60% multiple choice, the headings match the template, arrows and tick marks are gone. In M03-L02 the quiz is its own self-marked step, which brings lead-in plus close from 17% of the lesson to 13%.
+- **Reference files agree.** Lead-in length is 5 minutes or less everywhere, the quiz pass mark is 70 to 80% everywhere, theory lessons use the same section numbers as the template, and the template no longer has two sections numbered 0.
+- **Retention percentages removed.** The "20% listening, 90% doing" figures have no research behind them. `SKILL.md` and `references/media-and-materials.md` state the principle without the numbers.
+- **International wording first.** The grading section starts from the user's own institution, the lesson frames are introduced without a decree number up front, and author names are spelled one way.
+
 ## v1.1.1 - 2026-11-18
 
 Three writing rules added to Step 3 of SKILL.md, taken from real course runs:
@@ -8,7 +21,7 @@ Three writing rules added to Step 3 of SKILL.md, taken from real course runs:
 - Do not write first-person sentences that present work done by a pipeline or a machine as the instructor's own, unless the instructor approved it.
 - Check technical claims (install commands, required software, plan limits) against the official documentation and record the source and date.
 
-## v1.1.0 (2026-11-17)
+## v1.1.0 - 2026-11-17
 
 Fixes found in a test run by a first-time user on Windows 11, building a short self-paced course.
 
@@ -18,6 +31,6 @@ Fixes found in a test run by a first-time user on Windows 11, building a short s
 - **One quiz per lesson, not two.** When the lesson-assessment-designer skill is installed or the project has an `assessments/` folder, the lesson file no longer writes its own quiz items. Section 6 lists the objectives to measure, a suggested blueprint, the pass mark and `Quiz: see assessments/<course>/<lesson>/`, and keeps the item count and pass mark consistent with what the script says. Without an assessment skill, the quiz is written in full as before. Changed in `SKILL.md` (Step 4), `templates/02_Lesson_Content.md` and `references/assessment.md`.
 - **README for Windows.** PowerShell commands next to the bash ones for both install types, a note on the `.claude` folder, how to check the install with `/skills`, and how to update with `git pull`. New FAQ entries on the story placeholders and on which quiz to upload.
 
-## v1.0.0 (2026-11-12)
+## v1.0.0 - 2026-11-12
 
 First public release.

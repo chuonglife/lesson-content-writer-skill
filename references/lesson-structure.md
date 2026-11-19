@@ -1,6 +1,6 @@
 # Structure of a Lesson
 
-Source: Module 03 - Preparing to Teach (Võ Đình Dương, HCMC University of Technology and Education, 2022). The three lesson plan forms come from Vietnam's vocational education system (forms 05, 06 and 07 under Decision 62/2008/QĐ-BLĐTBXH). From here on they are simply the theory, practical and integrated lesson plans. The skill uses this structure as the **backbone of the lesson content file**: the reader follows the same sequence the instructor will teach.
+Source: Module 03 - Preparing to Teach (Vo Dinh Duong, HCMC University of Technology and Education, 2022). The skill uses three lesson plan forms: theory, practical and integrated. They describe a teaching sequence, not a regulation, so they work for any subject in any country. Their origin is vocational teacher training in Vietnam (official lesson plan forms 05, 06 and 07, Decision 62/2008 of the labour ministry). The skill uses this structure as the **backbone of the lesson content file**: the reader follows the same sequence the instructor will teach.
 
 ## 1. Choose the lesson type
 
@@ -26,15 +26,15 @@ References
 
 ### Part II by lesson type
 
-**Theory lesson**: 1 Lead-in -> 2 New content -> 3 Consolidation and closing -> 4 Self-study assignment.
+**Theory lesson**: 1 Lead-in -> 2 New content -> Consolidation and closing -> Self-study assignment. In the content file these last two keep the numbers 4 and 5 (a theory lesson has no section 3), so the sections after them have the same numbers in every lesson type.
 
 **Practical lesson**: 1 Lead-in -> 2 Initial instruction -> 3 Ongoing coaching -> 4 Closing debrief -> 5 Self-practice assignment.
 
 **Integrated lesson**: 1 Lead-in -> 2 Topic introduction -> 3 Problem solving -> 4 Problem close -> 5 Self-study assignment.
 
-## 3. Lead-in (3-7 minutes)
+## 3. Lead-in (5 minutes or less)
 
-Pick **one of 11 options** from Module 03:
+Pick **one of 11 options** from Module 03. `engaging-delivery.md` section 2 shows how to build them (problem situations, try-before-you-learn, a clip with a question):
 
 1. Review the previous lesson, then pose the problem
 2. A current real-world event
@@ -113,7 +113,7 @@ For a self-paced video course (Udemy, Teachable, Coursera, LMS). The table below
 |---|---|
 | Settle the class, review, lead-in, topic introduction | Video 1 (6-9 minutes): 1-2 minute review through pause questions; lead-in; lesson name; the promise; roadmap of videos, quiz and assignment |
 | Each small section (Introduce - Present - Apply - Check - Lock-in) | One video of 10-12 minutes at most; Apply = "pause the video and..."; Check = a pause question whose answer is spoken afterwards |
-| Quiz after a group of theory sections | A platform quiz of 5-10 questions with explanations, pass mark stated clearly (usually 8/10) |
+| Quiz after a group of theory sections | A platform quiz of 5-10 questions with explanations, pass mark stated clearly (70 to 80% is common, see `assessment.md` section 6) |
 | Guide the performance: procedure + demonstration + faults | One demonstration video (screen recording), 2-3 runs; learners try one step on the spot at a pause point |
 | Supervised practice | A submitted assignment following the job sheet; instructor feedback within 7 days; decreasing support = correcting only one line of the sample |
 | Skills check with a sheet | A self-scored checklist submitted with the product + the instructor's rubric |

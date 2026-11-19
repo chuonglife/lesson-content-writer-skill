@@ -10,7 +10,7 @@ The objective decides the type of media. The textbook's original example: the ob
 
 Six factors to weigh: the objective; the content and method; the learners' characteristics; the facilities; the instructor's skills; the room space and lighting (or the online platform).
 
-The effectiveness pyramid (weakest to strongest): plain talk -> board, pictures, models -> film, slides, video -> **learners practicing, working individually, doing projects, going on field visits**. Retention rates: hearing 20%, seeing 30%, hearing + seeing 50%, hearing + seeing + saying it back 70%, **adding doing: 90%**. Conclusion for lesson plans: every piece of media you bring out must come with **something the learners do with it**.
+The effectiveness pyramid (weakest to strongest): plain talk -> board, pictures, models -> film, slides, video -> **learners practicing, working individually, doing projects, going on field visits**. The source attaches retention percentages to these levels. They have no research behind them, so do not quote them in a lesson. The order is what matters. Conclusion for lesson plans: every piece of media you bring out must come with **something the learners do with it**.
 
 ## 2. Principles of use: the 3 "rights", plus safety and fit
 

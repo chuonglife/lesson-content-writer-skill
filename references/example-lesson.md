@@ -1,6 +1,6 @@
 Use this to calibrate length, density and voice.
 It is lesson M02-L01 of a 45-hour program for teachers and trainers who package and publish an online course.
-It is a self-paced video lesson, so it is split into 6 videos, 2 quizzes and 1 assignment;
+It is a self-paced video lesson, so it is split into 7 videos, 2 quizzes and 1 assignment;
 for a live class, merge videos into sections and keep the exercises.
 
 ---
@@ -18,9 +18,9 @@ for a live class, merge videos into sections and keep the exercises.
 | **Duration** | 3 hours = 150 learner minutes (theory 2 hours = 90 minutes of video and quizzes; practice 1 hour = 60 minutes of assignment work) |
 | **Lesson type** | Integrated (just enough Bloom's taxonomy, then practice writing objectives for the learner's own course) |
 | **Learners** | Teachers, lecturers, trainers and coaches building their first online course; they have taught face to face for years, are used to writing "aims and requirements" in lesson plans, and have never written objectives with measurable verbs |
-| **Delivery** | Self-paced video on Udemy: 6 videos (7-12 minutes each) + 2 quizzes + 1 submitted assignment (two tasks, with a self-scoring checklist) |
+| **Delivery** | Self-paced video on Udemy: 7 videos (7-12 minutes each) + 2 quizzes + 1 submitted assignment (two tasks, with a self-scoring checklist) |
 
-## Learning objectives
+## Objectives
 
 **By the end of this lesson, learners will be able to:**
 
@@ -35,16 +35,16 @@ for a live class, merge videos into sections and keep the exercises.
 ### Autonomy and responsibility
 - Carefully remove every unmeasurable verb (understand, know, grasp, be aware of, become familiar with) from the submitted table, even when that takes several rewrites, and revise on the instructor's feedback within 1 week. [A1]
 
-## Competency element of the lesson
+## Competency element
 
 This lesson builds the component competency **"Write measurable objectives for a course and for each lesson"**, the first half of the module competency of M02 (write teaching objectives for a course and for each lesson using the correct action verbs of Bloom's taxonomy). The objective table produced here is a required input for Lesson 2 (defining content: every piece of content must trace back to one objective) and for Modules M03-M05 (learning materials and scripts).
 
-## Products learners create in this lesson
+## What learners produce in this lesson
 
 - **Course objective table** (file based on task sheet M02-L1-2): 3-5 course-level objectives + 1-2 objectives per lesson, with a "Bloom level" column. Used to assess S1 and A1.
 - **Completed self-scoring checklist** (check sheet M02-L1-3: 6 criteria x each objective, with a "Rewrite as" column). Used to assess S2 and A1.
 
-## Alignment table: objectives, content, assessment
+## Alignment table: objective, where it is taught, how it is checked
 
 | Objective | Section or activity that teaches it | How it is checked |
 |---|---|---|
@@ -52,16 +52,16 @@ This lesson builds the component competency **"Write measurable objectives for a
 | K2 (right vs wrong objectives) | Video 4 (section 2.3), Video 5 (section 3.1) | Quiz 2: 10 objectives, choose Pass or the failed criteria |
 | S1 (write the objective table) | Video 5 demonstration (section 3.2), Task 1 (section 3.3) | Submitted work: objective table, scored with the 6-criterion checklist |
 | S2 (self-score, rewrite) | Video 6 (section 3.4), Task 2 | Completed checklist, "Rewrite as" column filled in |
-| A1 (remove banned verbs, revise on feedback) | Throughout; section 4 consolidation | Submitted table has no banned verbs; revision submitted within 7 days of feedback |
+| A1 (remove banned verbs, revise on feedback) | Throughout; Video 7 (section 4, problem close) | Submitted table has no banned verbs; revision submitted within 7 days of feedback |
 
 ## Assumptions
 
-- The program specifies "Online learning through video", so the lesson is designed as 6 short videos in place of a 150-minute live session; for a live class, merge the videos into the matching sections and keep the exercises.
+- The program specifies "Online learning through video", so the lesson is designed as 7 short videos in place of a 150-minute live session; for a live class, merge the videos into the matching sections and keep the exercises.
 - Learners already have the structure map of their course (course title + list of lessons) from M01 Lesson 2; if not, Task 1 allows them to use the sample short course "Asking questions in class" (handout M02-L1-4).
 - The quiz pass mark of 8/10 (80%) follows common Udemy practice; the objective table passes when at least 80% of the rows meet all 6 criteria.
 - The project this example came from had no `assessments/` folder and no assessment skill, so both quizzes are written in full in the content file. With lesson-assessment-designer installed, section 6 would carry the blueprint and "Quiz: see assessments/..." instead.
 - Made up for illustration, and said so in the script: the two Udemy courses in Video 1 (1,230 students, 3.4 and 4.7 ratings, 19 reviews), the learners Lena to Noah in Video 2, and the two sample tables scored in Video 6.
-- Placeholders the instructor fills before recording: four `[INSTRUCTOR STORY: ...]` spots, in Video 1 (a real course page, the objectives box, the first vague objective) and in the problem close (the longest table).
+- Placeholders the instructor fills before recording: four `[INSTRUCTOR STORY: ...]` spots, in Video 1 (a real course page, the objectives box, the first vague objective) and in Video 7, the problem close (the longest table).
 
 ---
 
@@ -71,36 +71,36 @@ This lesson builds the component competency **"Write measurable objectives for a
 
 M02 Lesson 1 · 3 hours (150 learner minutes) · Integrated lesson, self-paced video · Objectives: see `01_Learning_Objectives.md`
 
-## 0. Lesson plan at a glance
+## Lesson plan at a glance
 
-**Media and materials**: 6 lecture videos (screen recording of slides + small webcam corner, 7-12 minutes each); a 28-slide deck (outline in section 7.1); downloads: *Bloom 2001 verb table* (M02-L1-1), *Course objective table* (M02-L1-2), *6-criterion checklist* (M02-L1-3), *Sample course "Asking questions in class"* (M02-L1-4), *Homework sheet* (M02-L1-5); 2 Udemy quizzes; 1 submitted assignment. Learners need: a computer, an internet connection, and the course structure map made in M01 Lesson 2.
+**Media and materials**: 7 lecture videos (screen recording of slides + small webcam corner, 7-12 minutes each); a 28-slide deck (outline in section 7.1); downloads: *Bloom 2001 verb table* (M02-L1-1), *Course objective table* (M02-L1-2), *6-criterion checklist* (M02-L1-3), *Sample course "Asking questions in class"* (M02-L1-4), *Homework sheet* (M02-L1-5); 2 Udemy quizzes; 1 submitted assignment. Learners need: a computer, an internet connection, and the course structure map made in M01 Lesson 2.
 
-**Organization**: individual self-study through video; the "class" is the course Q&A board; the instructor responds to submissions within 7 days.
+**Grouping**: individual self-study through video; the "class" is the course Q&A board; the instructor responds to submissions within 7 days.
 
-| No. | Activity | Core content | Method, technique, media | What learners do | Min |
+| # | Activity | Core content | Method - technique - media | What learners do | Min |
 |---|---|---|---|---|---|
-| I | Review of previous lesson (start of Video 1) | Your course structure map | Pause question | Reopen the M01 map, count the lessons | 2 |
+| 0 | Settling in, review (start of Video 1) | Your course structure map | Pause question | Reopen the M01 map, count the lessons | 2 |
 | 1 | Lead-in: **Video 1** "One objective, two fates" | Problem situation that *refutes* a common belief: a vague "understand..." objective on a sales page; try-first writing | Problem posing; try before learning; hook-lesson-objectives-sequence-signpost | Write 1 objective for their own course (before learning anything) on M02-L1-2 | 8 |
 | 2 | Topic introduction + just-enough theory | | | | |
 | 2.1 | **Video 2**: Bloom 2001, what the 6 levels are | Remember, Understand, Apply, Analyze, Evaluate, Create; why 2001 turned nouns into verbs and moved the top two levels | Inductive explanation from a classroom example + staircase diagram; pause questions | Sort 6 situations into 6 levels | 11 |
 | 2.2 | **Video 3**: Action verbs for each level | Verb table; banned verbs; "verb = how you will check" | Guided questioning through pause questions; M02-L1-1 | Download the verb table; highlight 5 verbs they often write | 10 |
 | 2.3 | **Video 4**: The 4-component formula | Verb + object + condition + standard; 6 types of standard; right and wrong examples | Explanation + counter-examples; Apply: fix 3 faulty objectives | Fix 3 faulty objectives on the sheet | 12 |
-| | **Quiz 1** (10 questions) | K1 | Multiple choice | Take the quiz, read the explanations | 10 |
+| | **Quiz 1** (10 questions) | K1 | Multiple choice, true-false, ordering, fill in the blank | Take the quiz, read the explanations | 10 |
 | 3 | Problem solving: guided practice and drills | | | | |
 | 3.1-3.2 | **Video 5**: The 5-step process + demonstration on the sample course | 5 steps; checkpoint; key point "write how you will check first, the objective second"; common mistakes | Demonstration twice (fast, then slow with explanation); common mistakes | Watch; try step 3 for one lesson of the sample course | 12 |
 | 3.3 | **Task 1**: Write the objective table for your course | 3-5 course objectives + 1-2 per lesson | Individual practice on M02-L1-2 | Write and save the file | 40 |
 | 3.4 | **Video 6**: Self-scoring with the 6-criterion checklist; scoring two sample tables | 6 criteria; how to rewrite | Scoring demonstration; M02-L1-3 | Score the samples along with the instructor | 9 |
 | | **Task 2**: Score and rewrite your own table, then submit | S2, A1 | Checklist | Score, rewrite, submit the assignment | 20 |
-| | **Quiz 2** (10 objectives: right or wrong, and which fault) | K2 | Multiple choice | Take the quiz | 8 |
-| 4 | Problem close (end of Video 6) | Learners summarize in 3 keywords first; lock-in against the objectives; frequent slips | 1-minute write-up on the Q&A board; lock-in | Post 3 keywords + 1 open question on the Q&A board | 5 |
-| 5 | Self-study assignment (end of Video 6) | Differentiated homework; preparing for Lesson 2 | Homework sheet | Read it, schedule the submission | 3 |
+| | **Quiz 2** (10 objectives: right or wrong, and which fault) | K2 | Pass or fail items, naming the failed criteria | Take the quiz | 8 |
+| 4 | Problem close: **Video 7** "Three ideas, one sentence" | Learners summarize in 3 keywords first; lock-in against the objectives; frequent slips | 1-minute write-up on the Q&A board; lock-in | Post 3 keywords + 1 open question on the Q&A board | 5 |
+| 5 | Self-study assignment (end of Video 7) | Differentiated homework; preparing for Lesson 2 | Homework sheet | Read it, schedule the submission | 3 |
 | | **Total** | | | | **150** |
 
-**Screen plan (slides)**: a progress bar of the 6 videos stays fixed in the top left of every slide; the middle is the content being taught; the right strip is "keywords of this video", built up as the video goes.
+**Screen plan (slides)**: a progress bar of the 7 videos stays fixed in the top left of every slide; the middle is the content being taught; the right strip is "keywords of this video", built up as the video goes.
 
 ---
 
-## I. Review of the previous lesson (2 minutes, start of Video 1)
+## 0. Settling in and review (2 minutes, start of Video 1)
 
 [Webcam] Hi. Before we start, open the structure map of your course, the one you drew last lesson. [pause 3 seconds] How many lessons does your course have? Write that number on paper. By the end of today, every lesson in that number will have at least one measurable objective. Every one. No skipping the boring ones.
 
@@ -110,7 +110,7 @@ M02 Lesson 1 · 3 hours (150 learner minutes) · Integrated lesson, self-paced v
 
 **Purpose**: catch attention with a situation that *refutes* a common belief ("objectives are just paperwork") and a *try-before-you-learn* task; connect to the "aims and requirements" teachers already write in lesson plans.
 
-[Show slide 3: a mock-up of the "What you'll learn" box of a Udemy course] Read this line with me. *"Understand effective communication with parents."* I made this course up for today, but you've scrolled past dozens like it. Picture it with 1,230 students and a 3.4 rating. You open the 1-star reviews, 19 of them, and 11 say the same thing: finished the course, still no idea what I can do that I couldn't do yesterday. [pause] [INSTRUCTOR STORY: if you have a real course page like this, yours or one you reviewed, show it here instead and give its real figures.]
+[Show slide 3: a mock-up of the "What you'll learn" box of a Udemy course] Read this line with me. *"Understand effective communication with parents."* This course is made up for today, but you've scrolled past dozens like it. Picture it with 1,230 students and a 3.4 rating. You open the 1-star reviews, 19 of them, and 11 say the same thing: finished the course, still no idea what I can do that I couldn't do yesterday. [pause] [INSTRUCTOR STORY: if you have a real course page like this, yours or one you reviewed, show it here instead and give its real figures.]
 
 Second line, a second made-up course on the same topic: *"Write a 5-minute script for a parent meeting about a child's progress, with opening, facts, proposal and close, ready to use at next week's meeting."* Picture that one at 4.7. Two courses, nearly the same content, nearly the same length. One sentence apart. [pause]
 
@@ -118,14 +118,14 @@ Plenty of teachers treat the objectives box in a lesson plan as something for th
 
 Now a try-first task. [Show slide 4] Pause the video, open the *Course objective table* you downloaded (M02-L1-2), and write exactly **one** objective for your course. Write it the way you always have. No looking anything up. Two minutes. [pause] Keep that sentence. At the end of the lesson we score it against 6 criteria. I'm betting eight in ten of you will have to rewrite it, and I'm not saying that to scare you. [INSTRUCTOR STORY: the first vague objective you ever wrote, word for word, and how long you kept writing it that way.] Bad habit. Almost everybody starts there.
 
-[Show slide 5: lesson title] Today's lesson: writing learning objectives with Bloom's taxonomy. After these 150 minutes you'll have two things. An objective table for your own course, every line starting with a measurable verb, at the right Bloom level, with a condition and a standard. And a checklist you can use to score any objective later, yours or somebody else's. The route: 6 videos, 2 quizzes, 1 assignment. Videos 2 to 4 are theory, just enough, because I can't stand long lectures. In Video 5 I demonstrate on a sample course. Then you work on yours. Video 6 is scoring. Is it worth 150 minutes? I think it's the best-spent time in the whole program, because from the next lesson on, your content, slides, videos, scripts, even your sales page, all get cut out of this table.
+[Show slide 5: lesson title] Today's lesson: writing learning objectives with Bloom's taxonomy. After these 150 minutes you'll have two things. An objective table for your own course, every line starting with a measurable verb, at the right Bloom level, with a condition and a standard. And a checklist you can use to score any objective later, yours or somebody else's. The route: 7 videos, 2 quizzes, 1 assignment. Videos 2 to 4 are theory, just enough, because I can't stand long lectures. In Video 5 I demonstrate on a sample course. Then you work on yours. Video 6 is scoring. Video 7 is the short one: the wrap-up and your homework. Is it worth 150 minutes? I think it's the best-spent time in the whole program, because from the next lesson on, your content, slides, videos, scripts, even your sales page, all get cut out of this table.
 
 ## 2. Topic introduction and just-enough theory
 
 ### 2.1 Video 2 - Bloom's taxonomy 2001: six levels of thinking (11 minutes)
 
 **Key teaching points** (slides 6-9):
-- Bloom's taxonomy 1956 → revision by Anderson and Krathwohl, 2001.
+- Bloom's taxonomy 1956, then the revision by Anderson and Krathwohl, 2001.
 - 6 levels, low to high: **Remember - Understand - Apply - Analyze - Evaluate - Create**.
 - 2001 turned the nouns into verbs; "Synthesis" became "Create" and moved to the top.
 - The higher the level, the more learners must *do* with knowledge.
@@ -270,7 +270,7 @@ A standard has to be something you can *see, count or compare*. "Good", "effecti
 
 ### 3.2 Video 5 (part b) - Demonstration on the sample course "Asking questions in class" (7 minutes)
 
-**Demonstration 1 (fast, 1 minute)**: [Show slide 20: structure map of the 5-lesson sample course] I run all 5 steps fast so you see the whole picture: 5 lessons → 5 plain sentences → levels 2-2-3-4-6 → rewrite with 4 components → collect 3 course objectives → score.
+**Demonstration 1 (fast, 1 minute)**: [Show slide 20: structure map of the 5-lesson sample course] I run all 5 steps fast so you see the whole picture: 5 lessons, 5 plain sentences, levels 2-2-3-4-6, the rewrite with 4 components, 3 course objectives collected, then the score.
 
 **Demonstration 2 (slow, explaining what - how - why)**: [Show slides 21-23]
 
@@ -311,7 +311,7 @@ A standard has to be something you can *see, count or compare*. "Good", "effecti
 | 5 | Matches the planned Bloom level | Verb and object fit the level written in the "Level" column |
 | 6 | Written from the learner's side, one objective one task | No "help, introduce, provide"; no "and" joining two tasks that can be checked separately |
 
-**Scoring demonstration**: [Show slide 25] I score two sample tables. I wrote them for this lesson from the faults that turn up most often; if you have real tables from past learners and their permission, use those instead. Table A, row 2: "Be familiar with the structure of a lecture video" fails criteria 1, 3 and 4. Rewrite: "Describe the opening, body and close structure of a lecture video and point out the 3 parts in a given 8-minute video." Table B, row 4: "Record and edit the video and write the script" fails criterion 6. Split it in two, because the script is handed in first and the video later. See? Scoring isn't for giving a grade. It's for **knowing where to fix**.
+**Scoring demonstration**: [Show slide 25] I score two sample tables. Both are written for this lesson, they are not real learners' work. If you have real tables from past learners and their permission, use those instead. Table A, row 2: "Be familiar with the structure of a lecture video" fails criteria 1, 3 and 4. Rewrite: "Describe the opening, body and close structure of a lecture video and point out the 3 parts in a given 8-minute video." Table B, row 4: "Record and edit the video and write the script" fails criterion 6. Split it in two, because the script is handed in first and the video later. See? Scoring isn't for giving a grade. It's for **knowing where to fix**.
 
 > **Ask (pause the video)**: The line "Design 10 good slides for the lesson" fails which criteria? *Answer*: criterion 4 ("good"); maybe also 3 (no mention of which slide master). Rewrite: "...10 slides on the Slide Master you built in M03, one idea per slide, no more than 6 lines, no more than 3 colors".
 
@@ -319,17 +319,17 @@ A standard has to be something you can *see, count or compare*. "Good", "effecti
 
 **Quiz 2** (10 given objectives: right or wrong, and if wrong, which criterion fails; 8 minutes): see section 6.
 
-## 4. Problem close (5 minutes, end of Video 6)
+## 4. Problem close - Video 7 "Three ideas, one sentence" (5 minutes)
 
-[Webcam] I'm not summarizing yet. You go first. Pause the video and post three words you remember best, plus one question you're still stuck on, on the lesson's Q&A board. One minute. [pause]
+[Webcam] Last video, and it's the short one. I'm not summarizing yet. You go first. Pause the video and post three words you remember best, plus one question you're still stuck on, on the lesson's Q&A board. One minute. [pause]
 
 OK, now my lock-in, following the three objectives I promised. Bloom 2001: 6 levels, and a level means what the learner does with knowledge, not how much they know. A complete objective carries a measurable verb, an object, a condition and a standard, and the verb is the check written in advance. And the table gets written in 5 steps, with a stop after step 3, while step 4 runs backwards: think of the product first, then write the objective. The sentence I'd take home, the one worth taping to the edge of your monitor: **"By the end, what will they hand me?"**
 
-What I can't stand in an objective table is greed. Eight, nine lines, sometimes 11. [INSTRUCTOR STORY: optional, the longest objective table you have been handed and what you told its author.] A Udemy buyer reads the first four lines and scrolls on. Keep 3 to 5. It hurts. Cut anyway. And go back to the sentence you wrote in Video 1. If it needs rewriting, good. Almost everyone in this course starts there.
+What I can't stand in an objective table is greed. Eight, nine lines, sometimes 11. [INSTRUCTOR STORY: optional, the longest objective table you have been handed and what you told its author.] A Udemy buyer reads the first four lines and scrolls on. Keep 3 to 5. It hurts. Cut anyway. And go back to the sentence you wrote in Video 1. If it needs rewriting, good. That's what a first try is for.
 
 Tomorrow, whatever lesson you plan, write the objective first and open PowerPoint second. Try it for a week and see if it feels different.
 
-## 5. Self-study assignment (3 minutes)
+## 5. Self-study assignment (3 minutes, end of Video 7)
 
 **Homework** (homework sheet, section 7.6):
 - *Basic*: finish and submit the objective table and checklist (Tasks 1 and 2) if you haven't yet. Due: 7 days. Criteria: same as Task 2.
@@ -341,18 +341,18 @@ Tomorrow, whatever lesson you plan, write the objective first and open PowerPoin
 
 ## 6. Assessment
 
-**Objective-to-instrument table**: see `01_Learning_Objectives.md`. Pass marks: Quiz 1 at least 8/10; Quiz 2 at least 8/10; submitted work passes by the checklist.
+**Objective to instrument map**: see `01_Learning_Objectives.md`. Pass marks: Quiz 1 at least 8/10; Quiz 2 at least 8/10; submitted work passes by the checklist.
 
-### Quiz 1 - Bloom's taxonomy and verbs (10 questions, 1 point each)
+### Quiz 1 - Bloom's taxonomy and verbs (10 questions, 1 point each: 6 multiple choice, 2 true-false, 1 ordering, 1 fill in the blank)
 
 1. The version of Bloom's taxonomy in use today was revised by whom, and when? A. Bloom, 1956 · B. Anderson and Krathwohl, 2001 · C. Mager, 1994 · D. Dale, 1969. **B**. *Explanation*: 1956 is the original; 2001 is the revision in use.
-2. The correct order of the 6 levels (low to high): A. Remember-Understand-Analyze-Apply-Evaluate-Create · B. Remember-Understand-Apply-Analyze-Evaluate-Create · C. Understand-Remember-Apply-Analyze-Create-Evaluate · D. Remember-Apply-Understand-Analyze-Evaluate-Create. **B**.
+2. Ordering. Put the 6 levels in order, low to high: Analyze / Create / Remember / Evaluate / Apply / Understand. *Answer*: Remember, Understand, Apply, Analyze, Evaluate, Create.
 3. The biggest change in the 2001 version compared with 1956: A. Dropped the Remember level · B. Added a 7th level · C. Turned nouns into verbs and moved Create to the top · D. Merged Understand and Apply. **C**.
 4. "Point out where the questions are piled on top of each other in a video of a lesson" is at the level: A. Understand · B. Apply · C. Analyze · D. Create. **C**. *Explanation*: break apart and find the fault.
-5. Which word must **not** open an objective? A. List · B. Master · C. Classify · D. Design. **B**.
+5. True or false: "Master" is a measurable verb that may open an objective. **False**. *Explanation*: it does not say what the learner does to prove it.
 6. "Compare two ways of opening a lesson against 3 criteria and choose the one that suits your class" is at the level: A. Understand · B. Analyze · C. Evaluate · D. Create. **C**. *Explanation*: there are criteria and a choice.
-7. Why is "understand" banned as the opening verb? A. Because it is not important · B. Because it does not say how it will be checked · C. Because it is too easy · D. Because it is not in the dictionary. **B**.
-8. An objective in the first lesson of a course usually belongs at level: A. 5-6 · B. 1-2 · C. Always 3 · D. No level needed. **B**.
+7. Fill in the blank: "understand" is banned as the opening verb because it does not say how the objective will be ________. *Answer*: checked (also accept: measured, assessed).
+8. True or false: an objective in the first lesson of a course usually sits at levels 1-2. **True**. *Explanation*: learners meet the terms first and work with them later.
 9. With the same verb "draft", which sentence is at the Create level? A. Draft an objective from a given template · B. Draft the objective set for your own new course · C. Redraft the model sentence in your own words · D. Draft a lesson title. **B**.
 10. "Describe" at the start of a knowledge objective in vocational and technical training documents is: A. Wrong, must be replaced · B. Acceptable, Understand level · C. Create level · D. A banned verb. **B**.
 
@@ -371,7 +371,7 @@ Tomorrow, whatever lesson you plan, write the objective first and open PowerPoin
 
 ### Skills assessment sheet (instructor scores submitted work; published in advance)
 
-| No. | Competency element | Criterion, indicator | Evidence | Pass | Not yet |
+| # | Competency element | Criterion, indicator | Best evidence | Pass | Not yet |
 |---|---|---|---|---|---|
 | 1 | Write course-level objectives | The table has 3-5 course-level objectives, each row 6/6 on the checklist | Upper part of the objective table file | | |
 | 2 | Write lesson-level objectives | 100% of lessons in the map have at least 1 objective; at least 80% of rows 6/6; 0 banned verbs | Lower part of the file | | |
@@ -379,22 +379,22 @@ Tomorrow, whatever lesson you plan, write the objective first and open PowerPoin
 | 4 | Self-scoring and rewriting | Checklist filled for every row; "Rewrite as" filled for every failed row | Checklist file | | |
 | 5 | Time and responsibility | Submitted within 7 days; revision submitted within the next 7 days after feedback | Assignment history | | |
 
-## 7. Attached materials
+## 7. Materials
 
 ### 7.1 Slide outline (28 slides)
 
-| Slide | Title | Content (no more than 6 lines) | Visual | Presenting note |
+| Slide | Title | Content (6 lines max) | Image / diagram | Presenter note |
 |---|---|---|---|---|
-| 1 | Lesson cover | Lesson title; M02 Lesson 1; 6 videos | Progress bar | Video 1 |
-| 2 | Review: teaching plan | Objectives → activities → assessment | 3-block diagram | Appears after the question |
+| 1 | Lesson cover | Lesson title; M02 Lesson 1; 7 videos | Progress bar | Video 1 |
+| 2 | Review: teaching plan | Objectives, then activities, then assessment | 3-block diagram | Appears after the question |
 | 3 | One objective, two fates | 2 "What you'll learn" lines; 3.4 vs 4.7 | Mock-ups of 2 made-up course pages | Line 2 revealed after [pause] |
 | 4 | Try writing first | "Write 1 objective for your course - 2 minutes" | Clock | Pause video |
-| 5 | Lesson title + promise + route | 3 results; 6 videos - 2 quizzes - 1 assignment | Progress bar | Hook-lesson-objectives-sequence-signpost |
+| 5 | Lesson title + promise + route | 3 results; 7 videos - 2 quizzes - 1 assignment | Progress bar | Hook-lesson-objectives-sequence-signpost |
 | 6 | Six learners, six tasks | 6 sentences Lena...Noah | 6 empty boxes | Video 2; ask for the ordering |
 | 7 | Bloom 2001 staircase | 6 levels + "what you do with knowledge" | Staircase, one name per step | Steps revealed one by one |
 | 8 | Apply: 6 situations about "making slides" | 6 sentences | none | Pause video |
 | 9 | Answers to slide 8 + tells for 4-5-6 | break apart / find fault - choose by criteria - make something new | none | |
-| 10 | Verb = how you check | "understand" → name / explain / sort | Transforming arrow | Video 3 |
+| 10 | Verb = how you check | "understand" becomes name / explain / sort | Before-and-after pair | Video 3 |
 | 11 | Verb table, 6 levels | Up to 7 verbs per level | Table | Download M02-L1-1 |
 | 12 | Two traps + banned verbs | same verb at 2 levels; "describe"; banned list | none | |
 | 13 | The 4-component formula | (1)(2)(3)(4) + lead-in sentence; parent-meeting example pulled apart | 4-row table | Video 4 |
@@ -411,8 +411,8 @@ Tomorrow, whatever lesson you plan, write the objective first and open PowerPoin
 | 24 | 6-criterion checklist | 6 rows | Table | Video 6; download M02-L1-3 |
 | 25 | Scoring samples A and B | 2 faulty rows + rewrites | Table | Rewrite column revealed later |
 | 26 | Ask: what does "10 good slides" fail? | none | none | Pause video |
-| 27 | Lock-in: 3 ideas + take-home sentence | 6 levels; 4 components; 5 steps; "what will they hand me?" | none | |
-| 28 | Self-study + prepare for Lesson 2 | basic / advanced; 7-day deadline | none | |
+| 27 | Lock-in: 3 ideas + take-home sentence | 6 levels; 4 components; 5 steps; "what will they hand me?" | none | Video 7 |
+| 28 | Self-study + prepare for Lesson 2 | basic / advanced; 7-day deadline | none | Video 7 |
 
 ### 7.2 Information sheet: Bloom 2001 verb table (handout M02-L1-1)
 
@@ -435,7 +435,7 @@ Tomorrow, whatever lesson you plan, write the objective first and open PowerPoin
 
 **Try writing first (Video 1)**: …………………………………………………………
 
-**Practice (Video 4)**: fix 3 faulty objectives → (a) …… (b) …… (c) ……
+**Practice (Video 4)**: fix 3 faulty objectives: (a) …… (b) …… (c) ……
 
 **A. Course-level objectives**, *By the end of this course, learners will be able to:*
 
@@ -458,7 +458,7 @@ Tomorrow, whatever lesson you plan, write the objective first and open PowerPoin
 
 ### 7.4 Check sheet: 6-criterion checklist (handout M02-L1-3)
 
-Score each objective; mark ✓ if it passes, ✗ if it fails; every row with a ✗ needs a "Rewrite as".
+Score each objective. Write Pass or Fail in each cell. Every row with a Fail needs a "Rewrite as".
 
 | Row | 1 Action verb | 2 Object | 3 Condition | 4 Measurable standard | 5 Right level | 6 Learner's side, one task | Rewrite as |
 |---|---|---|---|---|---|---|---|

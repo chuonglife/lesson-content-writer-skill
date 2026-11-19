@@ -67,7 +67,7 @@ A 3-7 minute close contains: (1) learners summarize for themselves (a one-minute
 
 ## 8. Engagement self-check before handing over
 
-For a self-paced video course, read the lines below in these equivalents: "prepared questions" means pause-the-video questions whose answers are spoken after the pause; "organizational formats" means watch, answer, do, submit, Q&A; "learners summarize first" means writing 3 keywords in the Q&A or on a worksheet before hearing the lock-in; "continuous listening stretch" means a single video with no pause point.
+For a self-paced video course, read the lines below in these equivalents: "prepared questions" means pause-the-video questions whose answers are spoken after the pause; "organizational formats" means watch, answer, do, submit, Q&A; "learners summarize first" means writing 3 keywords in the Q&A or on a worksheet before hearing the lock-in; "continuous listening stretch" means a single video with no pause point. In one-video mode (one short video per lesson, see `SKILL.md`), read "at least 8 prepared questions" as "one pause question per 2 to 3 minutes of video", and "each stretch ends with a summary" as the lock-in of each 1 to 3 minute chunk.
 
 - [ ] The lead-in is an action, question or situation, runs 5 minutes or less, and ends with a concrete promise.
 - [ ] No continuous listening stretch exceeds 15 minutes; each stretch ends with a summary.

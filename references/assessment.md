@@ -52,9 +52,11 @@ Template for a skill assessment sheet:
 
 ## 6. Grading and scales (when marks are needed)
 
-The Vietnamese 10-point scale: Excellent 9-10; Very good 8 to under 9; Good 7 to under 8; Fairly satisfactory 6 to under 7; Satisfactory 5 to under 6; Weak 4 to under 5; Poor under 4. Pass mark 5.0. Converting a multiple-choice score: d = D/K x k (D = maximum of the target scale, K = maximum of the test, k = score obtained). For online courses, pass/fail against a rubric plus a quiz pass mark of 70% is common; state the threshold in the content file.
+Use the grading convention of the user's institution or platform first: a pass/fail rubric, percentages, letter grades, a stated quiz pass mark. For online courses, pass/fail against a rubric plus a quiz pass mark of 70 to 80% is common. State the threshold in the content file.
 
-When you know the grading convention of the user's institution or platform (pass/fail rubric, percentages, quiz pass mark), use that instead of the scale above.
+Converting a test score to another scale: d = D/K x k (D = maximum of the target scale, K = maximum of the test, k = score obtained).
+
+If the institution has no scale and the user asks for one, the source textbooks use the 10-point scale of Vietnamese vocational education: Excellent 9-10; Very good 8 to under 9; Good 7 to under 8; Fairly satisfactory 6 to under 7; Satisfactory 5 to under 6; Weak 4 to under 5; Poor under 4. Pass mark 5.0.
 
 ## 7. Writing the assessment part of the lesson content file
 

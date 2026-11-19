@@ -27,7 +27,7 @@ Two Markdown files per lesson, in `lessons/<course>/<Mxx-Lyy-lesson>/`:
 
 | File | Content |
 |---|---|
-| `01_Learning_Objectives.md` | Lesson facts, learners, delivery mode; objectives in Knowledge, Skills, Autonomy and responsibility, each written as action verb + object + conditions + standard; the competency the lesson builds; what learners produce; an alignment table showing where each objective is taught and how it is checked; assumptions |
+| `01_Learning_Objectives.md` | Lesson facts, learners, delivery mode; objectives in Knowledge, Skills, Autonomy and responsibility, each written as action verb + object + conditions + standard and ending in a code such as [K1] or [S1]; the competency the lesson builds; what learners produce; an alignment table showing where each objective is taught and how it is checked; assumptions |
 | `02_Lesson_Content.md` | A one-page plan with minutes, methods and learner actions; the full lesson in teaching order (lead-in, content chunks, procedures, demonstration, practice, consolidation, homework); the quiz or skill check sheet; a slide outline; the handouts written out in full; post-lesson reflection prompts |
 
 A content chunk inside `02_Lesson_Content.md` looks like this:
@@ -57,7 +57,7 @@ Lock-in:   4 parts. 6 kinds of standard. Measurable by eye.
 
 ## Install
 
-You need [git](https://git-scm.com/downloads). Pick one of the two Claude Code installs below. "Personal" makes the skill available in every project on your computer; "one project only" puts it inside the project folder you are standing in, so it travels with that project.
+You need [git](https://git-scm.com/downloads) and [Claude Code](https://code.claude.com/docs/en/setup). Pick one of the two Claude Code installs below. "Personal" makes the skill available in every project on your computer; "one project only" puts it inside the project folder you are standing in, so it travels with that project.
 
 **Claude Code (personal, all projects)**
 
@@ -96,18 +96,17 @@ git pull
 
 **Claude desktop or web app**
 
-Download `lesson-content-writer.skill` from the [latest release](https://github.com/chuonglife/lesson-content-writer-skill/releases/latest) and add it under Settings, Capabilities, Skills.
+1. Open Settings > Capabilities and turn on **Code execution and file creation**. Skills do not run without it.
+2. Download `lesson-content-writer.skill` from the [latest release](https://github.com/chuonglife/lesson-content-writer-skill/releases/latest).
+3. Open Customize > Skills, click "+", then "Create skill", then "Upload a skill", and pick the file.
 
-No dependencies. The skill writes Markdown only.
+On a Team or Enterprise plan an owner may have to allow code execution and skills for the organization first.
+
+No other dependencies. The skill writes Markdown only.
 
 ## Use it
 
 Ask in plain language. The skill triggers on requests about writing a lesson, a lesson plan, a teaching script or lesson objectives.
-
-```
-Write lesson 2 of module 3 from programs/support-onboarding/program.json.
-Live class, 12 new hires, 2 hours.
-```
 
 ```
 I teach Year 10 biology. Here is my textbook chapter on osmosis. Turn it into a
@@ -122,6 +121,13 @@ Write the lesson as 4 short videos with pause questions and a quiz.
 ```
 Write the learning objectives and full script for the lesson "Taking a manual
 blood pressure reading" for first-year nursing students.
+```
+
+If you designed the course with [Curriculum Designer](https://github.com/chuonglife/curriculum-designer-skill), point at the program file it wrote (`programs/<slug>/program.json`). These two only work once that file exists:
+
+```
+Write lesson 2 of module 3 from programs/support-agent-onboarding/program.json.
+Live class, 12 new hires, 2 hours.
 ```
 
 ```
@@ -171,12 +177,17 @@ If you want one short video per lesson instead (say one 7-minute lecture, then a
 
 ## Example output
 
-A self-paced video lesson for teachers and trainers building their first online course, 150 learner minutes, 6 videos, 2 quizzes, 1 assignment: [examples/M02-L01-write-objectives-with-blooms-taxonomy](examples/M02-L01-write-objectives-with-blooms-taxonomy)
+A self-paced video lesson for teachers and trainers building their first online course, 150 learner minutes, 7 videos, 2 quizzes, 1 assignment: [examples/M02-L01-write-objectives-with-blooms-taxonomy](examples/M02-L01-write-objectives-with-blooms-taxonomy)
 
 - [01_Learning_Objectives.md](examples/M02-L01-write-objectives-with-blooms-taxonomy/01_Learning_Objectives.md)
 - [02_Lesson_Content.md](examples/M02-L01-write-objectives-with-blooms-taxonomy/02_Lesson_Content.md)
 
 A live corporate training lesson for new customer support agents, produced by Claude from one request and the program file of the [Curriculum Designer](https://github.com/chuonglife/curriculum-designer-skill) onboarding example: [examples/M03-L02-live-chat-and-difficult-customers](examples/M03-L02-live-chat-and-difficult-customers)
+
+A one-video lesson: one 7-minute video, then a task and a quiz, 27 learner minutes in all. The project has an `assessments/` folder, so the lesson file carries the quiz blueprint and the quiz itself is left to Lesson Assessment Designer: [examples/M01-L01-vague-versus-measurable-objectives](examples/M01-L01-vague-versus-measurable-objectives)
+
+- [01_Learning_Objectives.md](examples/M01-L01-vague-versus-measurable-objectives/01_Learning_Objectives.md)
+- [02_Lesson_Content.md](examples/M01-L01-vague-versus-measurable-objectives/02_Lesson_Content.md)
 
 ## FAQ
 

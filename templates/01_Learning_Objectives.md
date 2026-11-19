@@ -9,22 +9,22 @@
 | **Duration** | <n hours = ... learner minutes; Theory ... / Practice ... / Assessment ...> |
 | **Lesson type** | <Theory / Practical / Integrated> |
 | **Learners** | <who they are, their level, what they already know; taken from the course's market research or learner profile> |
-| **Delivery** | <live in person / live online / self-paced video / blended> |
+| **Delivery** | <live in person / live online / self-paced video (say how many videos, or "one video of n minutes") / blended> |
 
 ## Objectives
 
 **By the end of this lesson, learners will be able to:**
 
 ### Knowledge
-- <Action verb + object + conditions + performance standard.>
-- <...>
+- <Action verb + object + conditions + performance standard.> [K1]
+- <...> [K2]
 
 ### Skills
-- <Action verb + object + conditions + performance standard.>
-- <...>
+- <Action verb + object + conditions + performance standard.> [S1]
+- <...> [S2]
 
 ### Autonomy and responsibility
-- <Action verb + object + conditions + performance standard.>
+- <Action verb + object + conditions + performance standard.> [A1]
 
 ## Competency element
 
@@ -46,3 +46,5 @@
 ## Assumptions
 
 - <Anything decided because the source material did not say. Numbers you chose yourself go here.>
+- <Every `[INSTRUCTOR STORY: ...]` placeholder and every made-up person or number in the script, with where it sits.>
+- <One-video mode only, in exactly this form:> `One-video mode: <n> minutes, target <w1>-<w2> words, script <w> words.`

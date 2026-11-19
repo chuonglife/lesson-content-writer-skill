@@ -2,7 +2,7 @@
 
 <Module> · <Duration> · <Lesson type> · Objectives: see `01_Learning_Objectives.md`
 
-## 0. Lesson plan at a glance
+## Lesson plan at a glance
 
 **Media and materials**: <everything: equipment; instructor materials (an n-slide deck, clips, real samples); learner materials (sheets, handouts, templates)>.
 **Grouping**: <theory: whole class + pairs...; practical: initial instruction whole class, practice solo or in groups of 3>.
@@ -14,10 +14,17 @@
 | 2 | <New content / Initial instruction / Topic introduction> | | | | |
 | 2.1 | <Chunk 1> | key terms, main idea | | | |
 | ... | | | | | |
-| 3 | <Consolidation / Ongoing coaching / Problem solving> | | | | |
-| 4 | <Self-study assignment / Closing debrief / Problem close> | | | | |
-| 5 | <Self-study assignment> | | | | |
+| 3 | <Ongoing coaching / Problem solving; a theory lesson has no row 3> | | | | |
+| 4 | <Consolidation / Closing debrief / Problem close> | | | | |
+| 5 | <Self-study assignment / Self-practice> | | | | |
 | | **Total** | | | | <= duration> |
+
+<!-- One-video mode (the program gives the lesson a video length, or the user asked for one video).
+Keep the same rows, but rows 0 to 4 are parts of the ONE video: put the minute marks inside the video in the Activity cell,
+for example "2.1 <Chunk 1> (1:00-3:00)". Chunks run 1 to 3 minutes.
+After row 4 add the after-video rows in learner minutes: pause time, the task, the quiz.
+Total = video minutes + pause minutes + task + quiz = the lesson's learner minutes.
+Write the line "One-video mode: <n> minutes, target <w1>-<w2> words, script <w> words." under Assumptions in 01_Learning_Objectives.md. -->
 
 **Board plan**: left = <outline kept all session>; middle = <drawing and explaining>; right = <key terms, space for learner work>. *(Self-paced video: call it a "screen plan" with a fixed zone, a content zone and a key-term strip, and add a "Video n / Quiz / Assignment" note to each row above.)*
 
@@ -25,7 +32,7 @@
 
 ## 0. Settling in and review (<n> min)
 
-<Short opening. Safety or workshop rules if it is a practical lesson. Review questions with answers if any. Self-paced video: fold this into the first 1-2 minutes of Video 1.>
+<Short opening. Safety or workshop rules if it is a practical lesson. Review questions with answers if any. Self-paced video: fold this into the first 1-2 minutes of Video 1. One-video mode: the first 10 to 20 seconds of the video.>
 
 ## 1. Lead-in (<n> min)
 
@@ -36,7 +43,7 @@
 > **Ask**: <question>. *Expected answer*: <...>. *If nobody answers*: <...>
 
 <!-- Numbering by lesson type.
-Theory:     1 Lead-in, 2 New content (2.1, 2.2 ... chunks), 4 Consolidation, 5 Self-study.
+Theory:     1 Lead-in, 2 New content (2.1, 2.2 ... chunks), 4 Consolidation, 5 Self-study (no section 3, so 6 to 8 keep their numbers).
 Practical:  1 Lead-in, 2 Initial instruction (2.1 review + procedure, 2.2 demonstration, 2.3 try-it + common mistakes), 3 Ongoing coaching, 4 Closing debrief, 5 Self-practice.
 Integrated: 1 Lead-in, 2 Topic introduction, 3 Problem solving (3.1 Task 1 theory chunks, 3.2 Task 2 procedure + demonstration, 3.3 Task 3 practice + skill check), 4 Problem close, 5 Self-study. -->
 
@@ -52,7 +59,7 @@ Integrated: 1 Lead-in, 2 Topic introduction, 3 Problem solving (3.1 Task 1 theor
 
 **Apply**: <a small task done right away; what learners do, with what, how long, what they produce>.
 
-**Check**: > **Ask**: <...>. *Answer*: <...>
+**Check**: > **Ask**: <...>. *Answer*: <...> <Self-paced video: write "Ask (pause the video)", say the pause length aloud and give the answer after the pause. One-video mode: one pause question per 2 to 3 minutes of video.>
 
 **Lock-in**: <1-2 sentences or 3 key terms for the right side of the board>. *Bridge*: <one sentence into the next chunk>.
 
@@ -88,7 +95,15 @@ Integrated: 1 Lead-in, 2 Topic introduction, 3 Problem solving (3.1 Task 1 theor
 **Objective to instrument map**: (may point to the table in `01_Learning_Objectives.md`)
 
 **End-of-lesson quiz** (if any): <5-10 items, answers, short explanations>.
-<If the project has the lesson-assessment-designer skill or an `assessments/` folder, replace the items with: objectives to measure; suggested blueprint | Objective | Bloom level | Items | Item type |; pass mark (same count and pass mark as the script says); and the line "Quiz: see assessments/<course-slug>/<Mxx-Lyy-lesson-slug>/".>
+<If the project has the lesson-assessment-designer skill or an `assessments/` folder, write no items. Put these four things in their place, and keep the item count and pass mark equal to what the script says:>
+
+<**Objectives the quiz must measure**: K1 ..., K2 ...>
+
+<Suggested blueprint, as a table: | Objective | Bloom level | Items | Item type |>
+
+<**Pass mark**: n of m.>
+
+<Quiz: see assessments/<course-slug>/<Mxx-Lyy-lesson-slug>/>
 
 **Skill check sheet / product rubric** (practical and integrated lessons):
 

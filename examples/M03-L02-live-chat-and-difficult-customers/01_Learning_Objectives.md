@@ -34,7 +34,7 @@ This lesson builds the competency element "Handle a live chat with an upset cust
 ## What learners produce in this lesson
 
 - A marked-up pacing log (sheet M03-L2-2, part A): evidence for K1.
-- Two first messages written for a hot opener (sheet M03-L2-2, part B) and the quiz in the close: evidence for K2.
+- Two first messages written for a hot opener (sheet M03-L2-2, part B) and the self-marked quiz in 3.6: evidence for K2.
 - The fuel-line rewrites (sheet M03-L2-3): evidence for S1.
 - 3 Ticketyard chat transcripts as agent, each with an internal note giving the issue, the fix and the customer's heat start and end, scored on check sheet M03-L2-5: evidence for S2, A1 and A2.
 
@@ -52,7 +52,7 @@ This lesson builds the competency element "Handle a live chat with an upset cust
 ## Assumptions
 
 - The user said the lesson is taught live in a training room with about 12 new hires. The program file lists "Live online classroom with breakout pairs" for M03. The request wins: the lesson is written for an in-person room. Pairs sit back to back so the role-play stays text-only, which keeps the breakout-pair idea of the program.
-- Company, product and helpdesk names are fictional: Pellucid Labs, Rotaplane (shift scheduling for small businesses, plans Starter, Team and Business), Ticketyard (helpdesk with a live chat module and a supervisor view). All customers and colleagues named in the scenarios are fictional too. The trainer's own experiences are not invented: sections 3.1 and 3.3 carry `[INSTRUCTOR STORY: ...]` placeholders, and the Greg story in 3.1 is offered as a made-up fallback the trainer says is made up.
+- Company, product and helpdesk names are fictional: Pellucid Labs, Rotaplane (shift scheduling for small businesses, plans Starter, Team and Business), Ticketyard (helpdesk with a live chat module and a supervisor view). All customers named in the scenarios and on the cards are fictional too, and the script says the lead-in chat was written for the lesson. Ruth is a stand-in name for the co-facilitator: the trainer introduces the real person at the bracket in section 0. The trainer's own experiences are not invented: sections 3.1 and 3.3 carry `[INSTRUCTOR STORY: ...]` placeholders, and the Greg story in 3.1 is offered as a made-up fallback the trainer says is made up.
 - The program does not spell out the chat rules or the de-escalation steps. The 4 pacing rules, the 4-step sequence, the identity check and the "one boundary line, then hand over to the team lead" rule are written here as the Pellucid playbook. A real company would replace them with its own playbook text.
 - The 5 parts of a reply from Lesson 1 are taken as: greeting by name, acknowledgement, answer or steps, next step, sign-off. The tone card from Lesson 1 is assumed to be on every desk.
 - The program's standard "keeping the customer calm" is made checkable through a heat rating: each card gives a starting heat (1-5) and the customer player records the end heat in the chat's internal note. Pass is end heat 2 or lower. The standards 60 seconds, 2 minutes, 3 lines and 2 chats are numbers chosen for this lesson and are tighter than, not contrary to, the program.

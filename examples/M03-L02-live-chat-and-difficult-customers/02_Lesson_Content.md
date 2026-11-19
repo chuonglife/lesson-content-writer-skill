@@ -2,7 +2,7 @@
 
 M03 Customer communication in writing and live chat · 3 hours (165 learner minutes) · Integrated · Objectives: see `01_Learning_Objectives.md`
 
-## 0. Lesson plan at a glance
+## Lesson plan at a glance
 
 **Media and materials**: Equipment: one laptop per learner with Ticketyard sandbox access (agent console, customer chat widget, supervisor view for facilitators), projector, whiteboard with three zones, timer visible to the room, sticky notes. Instructor materials: a 16-slide deck (outline in 7.1), demo card D0, the Rotaplane sandbox knowledge base. Learner materials: information sheet M03-L2-1, class worksheet M03-L2-2, fuel-line sheet M03-L2-3, job sheet M03-L2-4, check sheet M03-L2-5, scenario cards C1-C6 (sheet M03-L2-6), self-study task sheet M03-L2-7, the tone card from Lesson 1.
 **Grouping**: whole class for the lead-in, the demonstration and the close; pairs for 3.1 and the practice rounds; individual work in 3.2; trios in 3.3 and in the close. 12 learners = 6 pairs = 4 trios.
@@ -19,11 +19,12 @@ M03 Customer communication in writing and live chat · 3 hours (165 learner minu
 | | Break (not counted) | | | | (10) |
 | 3.4 | Procedure and demonstration: handle a hot chat | 7-step job sheet; checkpoints; identity check | Demonstration in 3 runs, projected, co-facilitator as customer; job sheet M03-L2-4 | Watch run 1 with 2 questions in mind; 3 learners each do one step live | 15 |
 | 3.5 | Practice: 6 role-played chats | Each learner is agent 3 times, customer 3 times | Role play in pairs, back to back; cards C1-C6; check sheet M03-L2-5; support faded over the rounds | Handle 3 chats in the sandbox, play the customer in 3, score each round | 80 |
-| 4 | Problem close | Learner summary, quiz, lock-in against the objectives, mistakes seen | 3 key terms on sticky notes in trios; 5-item quiz; slides 14-15 | Write and post key terms; take the quiz; mark own answers | 15 |
+| 3.6 | Knowledge quiz, self-marked | The 4 pacing rules and the 4-step sequence, 5 items | Paper quiz on the back of sheet M03-L2-5; answers on slide 14 | Take the quiz without notes; mark own answers | 6 |
+| 4 | Problem close | Learner summary, lock-in against the objectives, mistakes seen | 3 key terms on sticky notes in trios; slide 15 | Write and post key terms; hear the lock-in | 9 |
 | 5 | Self-study assignment | Rewrite the weakest messages of own transcript | Task sheet M03-L2-7; slide 16 | Note the task, due time and criteria | 4 |
 | | **Total** | | | | **165** |
 
-Share of time: theory (2 + 3.1 + 3.2 + 3.3) 42 min = 25%; demonstration and initial try 15 min = 9%; practice and self-checking (3.5) 80 min = 48%; lead-in plus close 20 min = 12%; settling in and self-study 8 min.
+Share of time, counted by the rule for integrated lessons: theory (2 + 3.1 + 3.2 + 3.3, plus the procedure and demonstration in 3.4) 57 min = 35%, limit 40%; practice and self-checking (3.5 + 3.6) 86 min = 52%, floor 45%; lead-in plus close (0 + 1 + 4 + 5: settling in, lead-in, close, self-study briefing) 22 min = 13%, limit 15%.
 
 **Board plan**: left = lesson title, the 4 pacing rules and the 4 steps of the sequence, kept all session; middle = the lead-in transcript annotated during 3.1 and 3.2, then the round timetable for 3.5; right = key terms (heat, holding message, fuel line, boundary line, own the next move) and the trios' sticky notes in the close.
 
@@ -33,7 +34,7 @@ Share of time: theory (2 + 3.1 + 3.2 + 3.3) 42 min = 25%; demonstration and init
 
 [Slide 1 on screen. Ticketyard sandbox login link on the board.]
 
-Morning. Laptops open, log in to the sandbox while I talk, agent console in one tab, customer chat widget in another. If your login fails, hand up, Ruth will come round. Ruth Adeyemi is our senior agent today, she has worked the Rotaplane chat queue for four years and she will be your angriest customer in about an hour.
+Morning. Laptops open, log in to the sandbox while I talk, agent console in one tab, customer chat widget in another. If your login fails, hand up, Ruth will come round. [Introduce your co-facilitator in one sentence: name, role, how long on the chat queue. This example calls her Ruth.] She will be your angriest customer in about an hour.
 
 Yesterday you wrote 6 email replies. Quick check before we go anywhere.
 
@@ -47,7 +48,7 @@ Yesterday you wrote 6 email replies. Quick check before we go anywhere.
 
 [Show slide 2: the transcript, timestamps visible.]
 
-This is a chat from our own queue, names changed. Read it. Don't say anything yet.
+This chat is written for today. It never happened, but you'll meet ones like it in the queue. Read it. Don't say anything yet.
 
 > 14:02:10 Joanne Reyes (Pickering Vets, Team plan): Our rota's gone. Completely blank for next week. I have 11 vets and nurses asking me what they're working and surgery opens in 40 minutes.
 >
@@ -195,7 +196,7 @@ Same fix as Ben. Four minutes earlier. And nobody asked how to cancel.
 
 I'll be blunt. There is one line I never want to see in a Pellucid transcript, and it's "Calm down". Nobody in the history of chat has calmed down because they were told to. [INSTRUCTOR STORY: optional, how often "Calm down" has turned up in your own queue and how those chats ended. Use your real count or cut this line.]
 
-A fuel line is a sentence that's true but makes things worse. "As I already said" is true. It also says "you weren't listening". "Unfortunately that's our policy" is true. It also says "I'm not going to try". Lauren on the billing queue keeps a list of them taped to her monitor, and the 6 on your sheet come from her list.
+A fuel line is a sentence that's true but makes things worse. "As I already said" is true. It also says "you weren't listening". "Unfortunately that's our policy" is true. It also says "I'm not going to try". You have 6 of them on your sheet. [INSTRUCTOR STORY: optional, a colleague who collects fuel lines or the one you see most in your own queue, 1-2 sentences.]
 
 **Apply** (6 min): Say it another way, in trios. Count off 1 to 4 round the room; same numbers sit together, 4 trios. Each trio gets sheet M03-L2-3: 6 fuel lines. Task: rewrite each line so it passes the 3 tests on the sheet; one person writes, one checks against the tests, the third reads each rewrite aloud as the customer would hear it. 5 minutes. Then each trio reads out its best rewrite, 15 seconds each, 1 minute total. Product: 6 rewrites, each with a tick or cross per test. Criterion: at least 5 of 6 pass all 3 tests (objective S1).
 
@@ -292,17 +293,19 @@ Customer players, a word for you. The card tells you who you are, what happened,
 
 > **Ask** (after round 6): Which step of the sequence did you skip most when the timer was running? *Expected answer*: usually step 4's confirm, or step 1 when the agent jumped straight to questions. *If nobody answers*: share the count from our scoring: how many of the rounds 5-6 transcripts closed without the customer confirming.
 
-## 4. Problem close (15 min)
+### 3.6 Knowledge quiz, self-marked (6 min)
+
+Quiz (4 min, on paper, sheet M03-L2-5 back page, no notes; the 5 items are in section 6). Then the answers go up on slide 14 and learners mark their own (2 min). Pass is 4 of 5.
+
+## 4. Problem close (9 min)
 
 Learners summarize first (3 min). Each person writes 3 key terms from today on 3 sticky notes, one term per note. In your trio from 3.3, agree on the one term you'd keep if you could keep only one, and stick it on the right side of the board. [Read the 4 notes out. Group duplicates.]
-
-Quiz (4 min, on paper, sheet M03-L2-5 back page; see section 6). Then answers on slide 14, learners mark their own (2 min).
 
 [Show slide 15.]
 
 Lock-in against the objectives (4 min).
 
-You said "holding message" on two notes. Good. That's rule two, and and in rounds 1 and 2 it's usually the one broken most. [Say the real count from the supervisor view: how many of the 12 chats in rounds 1 and 2 had a gap over 2 minutes.] Almost always while someone was reading an article. Holding message first, then the article.
+You said "holding message" on two notes. Good. That's rule two. [Say the real count from the supervisor view: how many of the 12 chats in rounds 1 and 2 had a gap over 2 minutes.] Almost always while someone was reading an article. Holding message first, then the article.
 
 The sequence. Hear it, Own the next move, Narrow it down, Commit and confirm. [pause 3 seconds] The step people skipped most today was the confirm at the end. Somebody fixes it in admin, feels the relief, and closes. Don't. Ask them to check.
 
